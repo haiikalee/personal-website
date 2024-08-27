@@ -37,7 +37,7 @@ const About = () => {
             </ul>
           </div>
           <div className="bts">
-            <a href="https://drive.google.com/file/d/11quuFgbU9H_LAqMOrZzTnkScgZYwFWgA/view?usp=sharing" target="_blank" className="btn hover-animated">
+            <a href="https://drive.google.com/file/d/11quuFgbU9H_LAqMOrZzTnkScgZYwFWgA/view?usp=sharing" target="_blank" rel="noopener norefferer" className="btn hover-animated">
               <span className="circle" />
               <span className="lnk">Download CV</span>
             </a>

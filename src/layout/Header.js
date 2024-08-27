@@ -4,7 +4,7 @@ import { Fragment, useState } from "react";
 const Menu = () => (
   <Fragment>
     <div className="logo hover-masks-logo">
-      <a href="https://drive.google.com/file/d/11quuFgbU9H_LAqMOrZzTnkScgZYwFWgA/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/11quuFgbU9H_LAqMOrZzTnkScgZYwFWgA/view?usp=sharing" target="_blank" rel="noopener norefferer">
         <span className="mask-lnk">
           Ahmad <strong>Haikal</strong>
         </span>

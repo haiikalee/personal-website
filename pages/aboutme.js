@@ -35,19 +35,6 @@ const BlogPost = () => {
                 <p>As I continue to grow and develop my skills, I aim to merge my technical expertise with my passions, contributing meaningfully to the 
                   fields that intrigue me the most.</p>
               </div>
-
-              <div className="post-text-bottom">
-                <div className="cat-links">
-                  <span>Posted in </span>
-                  <a href="/aboutme">About me</a>
-                  <span className="byline"> / by <span className="author">Ahmad Haikal</span></span>
-                </div>
-                <div className="tags-links">
-                  <span>Tags:</span>
-                  <a href="/tags/code" rel="tag">aboutme</a>
-                </div>
-              </div>
-
             </div>
           </div>
           <div className="clear"></div>
